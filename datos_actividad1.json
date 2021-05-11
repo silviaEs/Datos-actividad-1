@@ -1,0 +1,312 @@
+{
+    "Titulo": "Evolución de las caidas en Madrid agrupadas por el tipo de caida",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Caidas de motocicleta",
+                "SonDatosNumericos": true,
+                "Fuente": "IEA",
+                "Clasificacion": null,
+                "Unidad": " ",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Año",
+                        "Parametro": "2009",
+                        "Valor": 768,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Año",
+                        "Parametro": "2010",
+                        "Valor": 691,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Año",
+                        "Parametro": "2011",
+                        "Valor": 803,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Año",
+                        "Parametro": "2012",
+                        "Valor": 764,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Año",
+                        "Parametro": "2013",
+                        "Valor": 927,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Año",
+                        "Parametro": "2014",
+                        "Valor": 987,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Año",
+                        "Parametro": "2015",
+                        "Valor": 983,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Año",
+                        "Parametro": "2016",
+                        "Valor": 1089,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            },
+            {
+                "Id": 1,
+                "Nombre": "Caida ciclomotor",
+                "SonDatosNumericos": true,
+                "Fuente": "IEA",
+                "Clasificacion": null,
+                "Unidad": " ",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Año",
+                        "Parametro": "2009",
+                        "Valor": 231,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Año",
+                        "Parametro": "2010",
+                        "Valor": 188,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Año",
+                        "Parametro": "2011",
+                        "Valor": 185,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Año",
+                        "Parametro": "2012",
+                        "Valor": 187,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Año",
+                        "Parametro": "2013",
+                        "Valor": 137,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Año",
+                        "Parametro": "2014",
+                        "Valor": 150,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Año",
+                        "Parametro": "2015",
+                        "Valor": 166,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Año",
+                        "Parametro": "2016",
+                        "Valor": 212,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            },
+			{
+                "Id": 2,
+                "Nombre": "Caida bicleta",
+                "SonDatosNumericos": true,
+                "Fuente": "IEA",
+                "Clasificacion": null,
+                "Unidad": " ",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Año",
+                        "Parametro": "2009",
+                        "Valor": 76,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Año",
+                        "Parametro": "2010",
+                        "Valor": 81,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Año",
+                        "Parametro": "2011",
+                        "Valor": 114,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Año",
+                        "Parametro": "2012",
+                        "Valor": 126,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Año",
+                        "Parametro": "2013",
+                        "Valor": 140,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Año",
+                        "Parametro": "2014",
+                        "Valor": 232,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Año",
+                        "Parametro": "2015",
+                        "Valor": 239,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Año",
+                        "Parametro": "2016",
+                        "Valor": 276,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            },
+			{
+                "Id": 3,
+                "Nombre": "Caida viajero de autobús",
+                "SonDatosNumericos": true,
+                "Fuente": "IEA",
+                "Clasificacion": null,
+                "Unidad": " ",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Año",
+                        "Parametro": "2009",
+                        "Valor": 93,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Año",
+                        "Parametro": "2010",
+                        "Valor": 105,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Año",
+                        "Parametro": "2011",
+                        "Valor": 75,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Año",
+                        "Parametro": "2012",
+                        "Valor": 69,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Año",
+                        "Parametro": "2013",
+                        "Valor": 76,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Año",
+                        "Parametro": "2014",
+                        "Valor": 89,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Año",
+                        "Parametro": "2015",
+                        "Valor": 85,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Año",
+                        "Parametro": "2016",
+                        "Valor": 93,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            }
+        ]
+    }
+}
